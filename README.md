@@ -1,5 +1,5 @@
 # World Flags Dropdown
-It implemented from Flag Sprites
+It can use flag icon, Flag Dropdown 
 
 # Usage
 ## Sample Flag
@@ -7,7 +7,7 @@ It implemented from Flag Sprites
 
 ## Flag with dropdown
 * example at sample1.html
-![alt text](https://github.com/beyondplus/world-flags/raw/master/raw/flag-library.png "World Flags Dropdown")
+![alt text](https://github.com/beyondplus/world-flags/raw/master/raw/world-flags.png "World Flags Dropdown")
 
 # Flag Sprites
 https://www.flag-sprites.com/
