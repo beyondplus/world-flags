@@ -7,7 +7,7 @@ It implemented from Flag Sprites
 
 ## Flag with dropdown
 * example at sample1.html
-![alt text](https://github.com/beyondplus/world-flags/raw/raw/master/flag-library.png "World Flags Dropdown")
+![alt text](https://github.com/beyondplus/world-flags/raw/master/raw/flag-library.png "World Flags Dropdown")
 
 # Flag Sprites
 https://www.flag-sprites.com/
