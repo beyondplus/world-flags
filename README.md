@@ -3,7 +3,7 @@ It implemented from Flag Sprites
 
 # Usage
 ## Sample Flag
-<i class="flag flag-mm"></i> 
+`<i class="flag flag-mm"></i>`
 
 ## Flag with dropdown
 * example at sample1.html
